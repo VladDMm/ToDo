@@ -1,0 +1,6 @@
+﻿  main.cpp
+  ToDo.cpp
+c:\vs project\todo\todo.cpp(262): warning C4018: '>': signed/unsigned mismatch
+c:\vs project\todo\todo.cpp(313): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  ToDo.vcxproj -> C:\VS project\ToDo\Debug\ToDo.exe
